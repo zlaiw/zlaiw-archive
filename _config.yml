@@ -1,0 +1,2 @@
+# GitHub Pages 静态发布配置（由插件维护）
+exclude: [posts, README.md]
